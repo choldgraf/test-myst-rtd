@@ -9,6 +9,7 @@ project:
   github: https://github.com/choldgraf/test-myst-rtd
   toc:
     - file: index.md
+    - file: page.md
 site:
   template: book-theme
   # options:
