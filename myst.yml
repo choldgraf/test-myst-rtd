@@ -10,6 +10,7 @@ project:
   toc:
     - file: index.md
     - file: page.md
+    - file: chapter/page.md
 site:
   template: book-theme
   # options:
